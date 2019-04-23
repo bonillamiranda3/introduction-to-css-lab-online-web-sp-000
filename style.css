@@ -12,7 +12,7 @@ div {
   font-family: "Helvetica Neue";
   background: white;
   padding: 30px;
-  
+
 }
 
 /* ID selector to select the element with id 'main-header' */
@@ -26,5 +26,5 @@ div {
 .perspective-questions {
   /* Your code here! */
   font-style: italic;
-  
+
 }
